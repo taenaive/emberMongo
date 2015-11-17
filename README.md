@@ -1,6 +1,7 @@
 # Ember-mongo
 
 This is s minimal ember app to work with node.js mongo server.
+
 Just testing out for fun.
 
 ## Prerequisites
