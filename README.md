@@ -1,7 +1,7 @@
 # Ember-mongo
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is s minimal ember app to work with node.js mongo server.
+Just testing out for fun.
 
 ## Prerequisites
 
